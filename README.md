@@ -1,25 +1,20 @@
 <a name="readme-top"></a>
-
 <!-- PROJECT LOGO -->
+<div align="start">
 
-<Banner Here>
+# 📃expenses-automation-script v1.0
 
-<br />
-<div align="center">
-
-<h2 align="center">expenses-automation-script v1.0</h2>
-
-  <p align="center">
+  <p align="start">
     Python script to automate copy &amp; pasting expenses from unformatted bank statements for accounting.
     <br />
     <a href="https://github.com/nc1z/simple-bot-telegram"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://t.me/simple_v1_bot">View Demo</a>
+    <a href="https://youtu.be/aTSZLJifGeU">View Demo</a>
     ·
-    <a href="https://github.com/nc1z/simple-bot-telegram">Report Bug</a>
+    <a href="https://github.com/nc1z/expenses-automation-script">Report Bug</a>
     ·
-    <a href="https://github.com/nc1z/simple-bot-telegram">Request Feature</a>
+    <a href="https://github.com/nc1z/expenses-automation-script">Request Feature</a>
   </p>
 </div>
 
