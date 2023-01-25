@@ -42,8 +42,9 @@ Written with PyAutoGUI, Pynput, Pyperclip and Natural Language Toolkit (NLTK).
 <!-- RELEASE -->
 
 ## Release & Updates
-
-- V1.0 - Work in progress
+- V1.1 - Work in progress
+  - Text recognition, planning to remove some of V1.0 's manual tasks
+- V1.0 
   - Able to copy text from badly formatted PDF files, and paste them onto excel or google sheets via mouse & keyboard actions.  
   - some actions are still manual (defining copy & paste coordinates with initial configuration). 
   - Food category is still manual (Prediction is not accurate for food related expenses, due to the vast variations of restaurants)
