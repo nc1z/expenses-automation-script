@@ -7,10 +7,10 @@
   <p align="start">
     Python script to automate copy &amp; pasting expenses from unformatted bank statements for accounting.
     <br />
-    <a href="https://github.com/nc1z/simple-bot-telegram"><strong>Explore the docs »</strong></a>
+    <a href="#about-the-project"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://youtu.be/aTSZLJifGeU">View Demo</a>
+    <a href="https://youtu.be/aTSZLJifGeU" target="_blank">View Demo</a>
     ·
     <a href="https://github.com/nc1z/expenses-automation-script">Report Bug</a>
     ·
