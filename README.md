@@ -59,13 +59,14 @@ Written with PyAutoGUI, Pynput, Pyperclip and Natural Language Toolkit (NLTK).
 
 1. Clone Repository
 2. Open project in your favorite IDE (i.e. VS Code)
-3. Calibrate the line_spacing field in the Automation class (This represents the y-dist for the cursor to move between transactions in your PDF)
-4. Update build_json with your own dataset and expenses, tailor it to fit your own use case
-5. Run main.py in the terminal
-6. dataset.json & keywords_food.json should be generated in the same directory
-7. 1st prompt - select start point for copy script
-8. 2nd prompt - select start point for paste script
-9. Script executes successfully.
+3. Install dependencies (libraries)
+4. Calibrate the line_spacing field in the Automation class (This represents the y-dist for the cursor to move between transactions in your PDF)
+5. Update build_json with your own dataset and expenses, tailor it to fit your own use case
+6. Run main.py in the terminal
+7. dataset.json & keywords_food.json should be generated in the same directory
+8. 1st prompt - select start point for copy script
+9. 2nd prompt - select start point for paste script
+10. Script executes successfully.
 
 <!-- CONTACT -->
 
