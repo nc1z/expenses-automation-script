@@ -3,7 +3,7 @@
 <div align="start">
 
 # 📃expenses-automation-script v1.0
-
+![Python Badge](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=for-the-badge) ![Google Sheets Badge](https://img.shields.io/badge/Google%20Sheets-34A853?logo=googlesheets&logoColor=fff&style=for-the-badge) ![Microsoft Excel Badge](https://img.shields.io/badge/Microsoft%20Excel-217346?logo=microsoftexcel&logoColor=fff&style=for-the-badge)
   <p align="start">
     Python script to automate copy &amp; pasting expenses from unformatted bank statements for accounting.
     <br />
